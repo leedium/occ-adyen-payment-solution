@@ -7,7 +7,8 @@ This is an unoffical work in progress (WIP)  example of an [Adyen](https://www.a
 *Please contact me if you would like a demonstration or access to the source. 
 
 ### Status
-- Visa, MasterCard, Amex, 3D Secure WORKING
+- Visa, MasterCard, 3D Secure WORKING
+- Amex, WORKING
 - iDeal(NL) WORKING 
 
 Current version: 1.00
