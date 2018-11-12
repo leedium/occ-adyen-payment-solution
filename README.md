@@ -6,6 +6,10 @@ This is an unoffical work in progress (WIP)  example of an [Adyen](https://www.a
 *This has only been tested in a test and dev OCC storefront.  
 *Please contact me if you would like a demonstration or access to the source. 
 
+### Status
+- Visa, MasterCard, Amex, 3D Secure WORKING
+- iDeal(NL) WORKING 
+
 Current version: 1.00
 ### Supported Payment Types
 - <a href="https://www.adyen.com/payment-methods/visa"><img src="https://www.adyen.com/dam/jcr:0e5869f3-b96e-4843-9efa-1bcd7a101af4/logo-visa.png" alt="visa" height="15px"></a>&nbsp;&nbsp;<a href="https://www.adyen.com/payment-methods/mastercard"><img src="https://www.adyen.com/dam/jcr:c02ee010-d614-400b-88ee-bc1282ac3a3b/master-card.png" alt="mastercard" height="15px"></a>&nbsp;&nbsp;<a href="https://www.adyen.com/payment-methods/american-express"><img src="https://www.adyen.com/dam/jcr:ac9e37d3-543e-4b96-8b68-1aa06d5d2cd4/logo-amex.png" alt="american express" height="15px"></a> Normal and [3DSecure](https://docs.adyen.com/developers/checkout/api-integration/integrate-3d-secure "3D Secure") Credit Card payments
