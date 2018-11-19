@@ -7,9 +7,11 @@ This is an unoffical work in progress (WIP)  example of an [Adyen](https://www.a
 *Please contact me if you would like a demonstration or access to the source. 
 
 ### Status
-- Visa, MasterCard, 3D Secure WORKING
-- Amex, WORKING
-- iDeal(NL) WORKING 
+- ~[Visa](https://www.adyen.com/payment-methods/visa), [MasterCard](https://www.adyen.com/payment-methods/mastercard Mastercard), 3D Secure~ WORKING
+- ~[Amex](https://www.adyen.com/payment-methods/american-express)~, WORKING
+- ~[iDeal(NL)]((https://www.adyen.com/payment-methods "Adyen payment methods") (Netherlands) "iDeal")~ WORKING 
+- Interac
+- Apple Pay
 
 Current version: 1.00
 ### Supported Payment Types
