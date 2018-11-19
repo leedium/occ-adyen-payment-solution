@@ -50,8 +50,8 @@ Current version: 1.00
 ### Installation
 1. Package and install the [gateway](https://github.com/leedium/occ-adyen/tree/master/gateway "adyen payment gateway for oracle commerce cloud") - /gateway
 2. Package and install the [Payment Details](https://github.com/leedium/occ-adyen/tree/master/widgets/paymentDetails "Payment Details")
-3. Package and install the [Payment Authorization Widget](https://github.com/leedium/occ-adyen/tree/master/widgets/authorization "Authorization")
 ** see [occ-react-component](https://github.com/leedium/occ-react-component "occ-react-component") for installation instructions
+3. Package and install the [Payment Authorization Widget](https://github.com/leedium/occ-adyen/tree/master/widgets/authorization "Authorization")
 4. Package and install the [Payment Constants](https://github.com/leedium/occ-adyen/tree/master/widgets/global/constants "Constants") and [Payment Controller Widget](https://github.com/leedium/occ-adyen/tree/master/widgets/globalController "Global Controller") Widgets
 ** see [occ-react-component](https://github.com/leedium/occ-react-component "occ-react-component") for installation instructions
 5. See README.md for installation, test, deploy instructions for the SSE - /sse
