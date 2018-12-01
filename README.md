@@ -13,9 +13,11 @@ This is an unoffical work in progress (WIP)  example of an [Adyen](https://www.a
 - Interac
 - Apple Pay
 
-- Adyen notifications / hooks (in progress)
-- OCC Refund / Cancel / Update payment state (in progress)
-- Solution installation scripts (in progress)
+- Adyen notifications / hooks (authorize, capture, cancel)
+- OCC Refund    
+- ~OCC Cancel~   
+- Solution installation scripts
+
 
 Current version: 1.00
 ### Supported Payment Types
