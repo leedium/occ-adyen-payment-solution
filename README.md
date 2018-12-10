@@ -12,9 +12,9 @@ This is an unoffical work in progress (WIP)  example of an [Adyen](https://www.a
 - ~[iDeal(NL)]((https://www.adyen.com/payment-methods "Adyen payment methods") (Netherlands) "iDeal")~ WORKING 
 - Interac
 - Apple Pay
-- ~Adyen notifications / hooks (authorize, capture, cancel)~
-- ~OCC Refund~   
-- ~OCC Cancel~   
+- ~Adyen notifications / hooks (authorize, capture, cancel)~ WORKING
+- ~OCC Refund~ WORKING
+- ~OCC Cancel~ WORKING
 - Solution installation scripts
 
 
