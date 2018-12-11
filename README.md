@@ -1,6 +1,6 @@
 # Unofficial [Adyen](https://www.adyen.com/ "Adyen ") payment solution for [Oracle Commerce Cloud](https://cloud.oracle.com/en_US/commerce-cloud "Oracle Commerce Cloud")
 
-This is an unoffical work in progress (WIP)  example of an [Adyen](https://www.adyen.com/ "Adyen ") payment solution for
+This is an [Adyen](https://www.adyen.com/ "Adyen ") payment solution for
 [Oracle Commerce Cloud](https://cloud.oracle.com/en_US/commerce-cloud "Oracle Commerce Cloud") (OCC).  I've taken it upon myself to try and implement the various types of payment methods using features provided by Adyen's [API integration](https://docs.adyen.com/developers/checkout/api-integration "API integration").  This is partly due to the shortcomings of the Out of the box (OOTB) Cybersource soultion packaged with OCC.
 
 *This has only been tested in a test and dev OCC storefront.  
