@@ -12,8 +12,11 @@ This is an [Adyen](https://www.adyen.com/ "Adyen ") payment solution for
 - ~[Visa](https://www.adyen.com/payment-methods/visa), [MasterCard](https://www.adyen.com/payment-methods/mastercard Mastercard), 3D Secure~ WORKING
 - ~[Amex](https://www.adyen.com/payment-methods/american-express)~, WORKING
 - ~[iDeal(NL)]((https://www.adyen.com/payment-methods "Adyen payment methods") (Netherlands) "iDeal")~ WORKING 
-- Interac
-- Apple Pay
+- Paypal (in progress)
+- Bankcontact (in progress)
+- SEPA (inprogress)
+- Interac (Canada)
+- Apple Pay (Not NL, lolz)
 - ~Adyen notifications / hooks (authorize, capture, cancel)~ WORKING
 - ~OCC Refund~ WORKING
 - ~OCC Cancel~ WORKING
