@@ -13,24 +13,19 @@ This is an [Adyen](https://www.adyen.com/ "Adyen ") payment solution for
 - ~[Amex](https://www.adyen.com/payment-methods/american-express)~, WORKING
 - ~[iDeal(NL)]((https://www.adyen.com/payment-methods "Adyen payment methods") (Netherlands) "iDeal")~ WORKING 
 - Paypal (This is out-of-the-box in OCC, may consider porting)
-- Bancontact (in progress)
+- ~Bancontact (in progress)~
 - SEPA 
-- Interac (Canada)
+- ~Interac (Canada)~
 - Apple Pay (Not NL)
 - ~Adyen notifications / hooks (authorize, capture, cancel)~ WORKING
 - ~OCC Refund~ WORKING
 - ~OCC Cancel~ WORKING
-- Solution installation scripts
-
+- Solution installation scripts (to install the entire thing in one go)
 
 Current version: 1.00
 ### Supported Payment Types
 - <a href="https://www.adyen.com/payment-methods/visa"><img src="https://www.adyen.com/dam/jcr:0e5869f3-b96e-4843-9efa-1bcd7a101af4/logo-visa.png" alt="visa" height="15px"></a>&nbsp;&nbsp;<a href="https://www.adyen.com/payment-methods/mastercard"><img src="https://www.adyen.com/dam/jcr:c02ee010-d614-400b-88ee-bc1282ac3a3b/master-card.png" alt="mastercard" height="15px"></a>&nbsp;&nbsp;<a href="https://www.adyen.com/payment-methods/american-express"><img src="https://www.adyen.com/dam/jcr:ac9e37d3-543e-4b96-8b68-1aa06d5d2cd4/logo-amex.png" alt="american express" height="15px"></a> Normal and [3DSecure](https://docs.adyen.com/developers/checkout/api-integration/integrate-3d-secure "3D Secure") Credit Card payments
 - <a href="https://www.adyen.com/payment-methods/ideal"><img src="https://www.adyen.com/dam/jcr:ab3f0f1d-5fa6-4ab8-87a8-6cba590aa688/logo-ideal.png" height="15px"></a> [local payment](https://www.adyen.com/payment-methods "Adyen payment methods") (Netherlands)
-- coming soon, Interac (Canada)
-- coming soon, Apple Pay
-- coming soon, recurring payments
-
 
 #### Includes
 - [Server-Side Extension](https://github.com/leedium/occ-adyen/tree/master/sse "Server-side extension")
