@@ -16,7 +16,7 @@ This is an [Adyen](https://www.adyen.com/ "Adyen ") payment solution for
 - Paypal (This is out-of-the-box in OCC, may consider porting)
 - ~Bancontact (in progress)~
 - SEPA 
-- ~Interac (Canada)~
+- Interac (Canada)
 - Apple Pay (Not NL)
 - ~Adyen notifications / hooks (authorize, capture, cancel)~ WORKING
 - ~OCC Refund~ WORKING
