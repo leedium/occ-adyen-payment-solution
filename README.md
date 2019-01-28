@@ -12,6 +12,7 @@ This is an [Adyen](https://www.adyen.com/ "Adyen ") payment solution for
 - ~[Visa](https://www.adyen.com/payment-methods/visa), [MasterCard](https://www.adyen.com/payment-methods/mastercard Mastercard), 3D Secure~ WORKING
 - ~[Amex](https://www.adyen.com/payment-methods/american-express)~, WORKING
 - ~[iDeal(NL)]((https://www.adyen.com/payment-methods "Adyen payment methods") (Netherlands) "iDeal")~ WORKING 
+- 3D Secure 2.0  
 - Paypal (This is out-of-the-box in OCC, may consider porting)
 - ~Bancontact (in progress)~
 - SEPA 
@@ -26,6 +27,7 @@ Current version: 1.00
 ### Supported Payment Types
 - <a href="https://www.adyen.com/payment-methods/visa"><img src="https://www.adyen.com/dam/jcr:0e5869f3-b96e-4843-9efa-1bcd7a101af4/logo-visa.png" alt="visa" height="15px"></a>&nbsp;&nbsp;<a href="https://www.adyen.com/payment-methods/mastercard"><img src="https://www.adyen.com/dam/jcr:c02ee010-d614-400b-88ee-bc1282ac3a3b/master-card.png" alt="mastercard" height="15px"></a>&nbsp;&nbsp;<a href="https://www.adyen.com/payment-methods/american-express"><img src="https://www.adyen.com/dam/jcr:ac9e37d3-543e-4b96-8b68-1aa06d5d2cd4/logo-amex.png" alt="american express" height="15px"></a> Normal and [3DSecure](https://docs.adyen.com/developers/checkout/api-integration/integrate-3d-secure "3D Secure") Credit Card payments
 - <a href="https://www.adyen.com/payment-methods/ideal"><img src="https://www.adyen.com/dam/jcr:ab3f0f1d-5fa6-4ab8-87a8-6cba590aa688/logo-ideal.png" height="15px"></a> [local payment](https://www.adyen.com/payment-methods "Adyen payment methods") (Netherlands)
+- <a href="https://www.adyen.com/payment-methods/bancontact"><img src="https://www.adyen.com/dam/jcr:45611eff-c02f-46a8-a09c-1ec40a38befa/bancontact.png" height="15px"></a> (Belgium) .  
 
 #### Includes
 - [Server-Side Extension](https://github.com/leedium/occ-adyen/tree/master/sse "Server-side extension")
