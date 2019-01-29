@@ -9,12 +9,14 @@ This is an [Adyen](https://www.adyen.com/ "Adyen ") payment solution for
 
 
 ### Status
-- ~[Visa](https://www.adyen.com/payment-methods/visa), [MasterCard](https://www.adyen.com/payment-methods/mastercard Mastercard), 3D Secure~ WORKING
-- ~[Amex](https://www.adyen.com/payment-methods/american-express)~, WORKING
+- ~[Visa](https://www.adyen.com/payment-methods/visa "Visa")~  
+- ~[MasterCard](https://www.adyen.com/payment-methods/mastercard "Mastercard")~ WORKING   
+- ~3D Secure~ WORKING
+- ~[Amex](https://www.adyen.com/payment-methods/american-express "AMEX")~, WORKING
 - ~[iDeal(NL)]((https://www.adyen.com/payment-methods "Adyen payment methods") (Netherlands) "iDeal")~ WORKING 
-- 3D Secure 2.0  
+- 3D Secure 2.0 (Investigating)
 - Paypal (This is out-of-the-box in OCC, may consider porting)
-- ~Bancontact (in progress)~
+- ~Bancontact (in progress)~ WORKING
 - SEPA 
 - Interac (Canada)
 - Apple Pay (Not NL)
