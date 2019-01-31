@@ -10,7 +10,8 @@ This is an [Adyen](https://www.adyen.com/ "Adyen ") payment solution for
 
 ### Status
 - ~[Visa](https://www.adyen.com/payment-methods/visa "Visa")~ WORKING  
-- ~[MasterCard](https://www.adyen.com/payment-methods/mastercard "Mastercard")~ WORKING   
+- ~[MasterCard](https://www.adyen.com/payment-methods/mastercard "Mastercard")~ WORKING  
+- ~Maestro~ WORKING    
 - ~3D Secure~ WORKING
 - ~[Amex](https://www.adyen.com/payment-methods/american-express "AMEX")~, WORKING
 - ~[iDeal(NL)]((https://www.adyen.com/payment-methods "Adyen payment methods") (Netherlands) "iDeal")~ WORKING 
